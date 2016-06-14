@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "21d3d3c8622099565905be1fe84c29ca"
+build_time: [519225314, 621057000]
+inputs:
+  "/Users/KrisJulio/Documents/MyWorks/KJPullToRefresh/KJPullToRefresh/ViewController.swift": [519225309, 0]
+  "/Users/KrisJulio/Documents/MyWorks/KJPullToRefresh/KJPullToRefresh/AppDelegate.swift": [519225309, 0]
